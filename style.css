@@ -1,0 +1,58 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(75, 192, 247);
+    
+}
+
+header{
+    background-image: url("fundo.jpg");
+
+
+    padding: 15px;
+    border:1px solid purple;
+    justify-content: center;
+    align-items: center;
+    font-family: arial black;
+    display:flex;
+}
+
+h1{ 
+    font-size: 30px;
+}
+
+.logo{
+    width: 200px ;
+    height:200px;
+}
+
+
+.fileira { 
+    width: 400px;
+
+    
+}
+
+.fileira1 {
+    width: 370px;
+    height: 267px
+}
+
+.fileira3 {
+    width: 400px;
+    height: 267px
+}
+
+
+.grupo {
+    width: 400px;
+    height: 300px
+}
+
+
+.jogador {
+    width: 400px;
+    height: 300px
+}
+
+
